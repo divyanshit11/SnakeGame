@@ -27,6 +27,10 @@
     background-color: red;
 }
 
+.snake{
+    background-color: purple;
+}
+
 .food(){
     background-color: purple;
 }
